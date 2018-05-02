@@ -2,6 +2,7 @@
 Syntactic and lexical segmenter for discourse. Takes a text and segments it into units for discourse parsing.
 
 Milan Tofiloski, Julian Brooke, Maite Taboada
+
 Contact: mtaboada@sfu.ca
 
 For more information on this research:
